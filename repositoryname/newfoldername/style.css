@@ -1,0 +1,33 @@
+.header {
+     text-align:center;
+  }
+  .about-me{
+    font-size: 20px; opacity: 1;
+  }
+  .title {
+    font-weight: bold;
+  }
+  h1 {
+    color: Azure;
+  }
+  h2 {
+      color: Azure;
+  }
+  h3 { 
+      color: azure
+  }
+  body {
+    font-family: Georgia; 
+    background-image: url(https://lh3.googleusercontent.com/rsMrUVZ8x78hqFuRNPU3lJ7_C__AvZZ8CpHNV2oIxO04AJLTmFPz5WsHKd2oNfnoUzO0Me_jO-kXk44Uh7asaWLcL5wRTRsz7NBr5H7ypv1YRD5TETWFrdGKYO-VnoIVrt235jAo17W7LmkO_572YEuU5AszGoU7fPMzDf74PrQNV8ByVeXQgJmPqZZaFzJ_3Ed0IcKDbqQRqmj0V4KTK0UdOXYwtxe_laC18MkitHlA0qdEuCK72SWnzaAIEKwTituqjjOXzL6TnQTi2CEP6a2q-eXNPtm-Fk7A-y6vwxUR9u2_Ds991B-ZXXCAErPhrX6EcMWHrVQ-oT62HOF7bOACi6_A-3E8IdhWRDXJ9JkjsPJ55_1phlGVroZOB3VPKneZzba4dh5wZpAeu_SRgQJrYYahY-7F-u3o6REezvhPxmCboGPwVguKSShZ9W_dCTJNW7RY3OGhjnjBboiiqgtGk4y8c9Vpc52941R_p40SKGJ5RHseFbiXtdq8DAhkJMaU-px8R6jusKvNpRMwtNZilZPP_i99uzxR9GFsduwt1jg1fSBiOkI8nkTE7QM48wx0eR_P9Ryp6lCLJ4VCCS2zlOQtceaITHiWPPAG-06-bcpikwHyACpDUngNjTjwORBcPpfggYcoZ_BsirZ9aXMJhnYpoBM=w703-h938-no)
+    
+  }
+  .photo {
+    width: 25%;
+    padding: 1.11rem;
+    border-radius: 5px;
+    margin: 0 auto 4.44rem auto;
+    background-color: white;
+  }
+  .contact {
+      color: rgb(20, 27, 27)
+  }
